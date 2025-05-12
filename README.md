@@ -14,9 +14,6 @@
 
 ---
 
-## 📂 Project Structure
-
-
 ## 👩‍💻 Collaborators
 
 - Aarya Shrivaastava  
