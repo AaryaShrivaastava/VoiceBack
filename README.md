@@ -6,7 +6,7 @@
 
 ## 🚀 Features
 
-- Voice input and output
+- Voice inputs and outputs
 - Basic speech recognition
 - Placeholder for response mechanism
 
